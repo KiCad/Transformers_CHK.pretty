@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Trafo, Printtrafo, CHK, EI54, 12VA, neutral,")
   (tags "Trafo, Printtrafo, CHK, EI54, 12VA, neutral,")
-  (fp_text reference Trafo_CHK-EI54-12VA_Neutral (at 0 -17.78) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -17.78) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 0 90) (layer F.SilkS) hide
+  (fp_text value Trafo_CHK-EI54-12VA_Neutral (at 0 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user 14 (at 11.00074 15.00124) (layer F.SilkS)

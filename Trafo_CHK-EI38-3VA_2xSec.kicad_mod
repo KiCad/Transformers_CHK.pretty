@@ -2,10 +2,10 @@
   (at 0 0)
   (descr "Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec,")
   (tags "Trafo, Printtrafo, CHK, EI38, 3VA, 2x Sec,")
-  (fp_text reference Trafo_CHK-EI38-3VA_2xSec (at 0 -24.13) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -24.13) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 0 90) (layer F.SilkS) hide
+  (fp_text value Trafo_CHK-EI38-3VA_2xSec (at 0 0 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -17.5006 20.24888) (end 17.5006 20.24888) (layer F.SilkS) (width 0.15))
